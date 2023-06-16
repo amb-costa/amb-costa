@@ -22,7 +22,7 @@
 </div>
     
 <div align="center">
-    <h3 align="center" style="margin: 5px auto;">This is what i've coded so far</h3>
+    <h3 align="center">This is what i've coded so far</h3>
     <a href="https://github.com/amb-costa/finalPedalPartner.com">Pedal Partner: Geolocalization for bicycle stores and reparation</a>
     <br />
     <a href="https://github.com/amb-costa/readingListSWAPI.js">Star Wars Reading List using the SWAPI</a>
