@@ -1,9 +1,9 @@
-<h1 align="center">Call me Amber: lover of all things music. I code too.</h1>
+<h1 align="center">Welcome to my repository!</h1>
 <h2 align="center">I'm just starting on my Full Stack Developer career! I still got a lot of languages to learn and use, thus I have a lot of potential to explore. Looking forward to add more to the list! Stay tuned for updates ;)</h2>
 
-<h4 align="left">This is what I already know!</h4>
+<h4 align="center">This is what I already know!</h4>
 <div>
-    <p align="left"> 
+    <p align="center"> 
         <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
         <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />        
         <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -22,5 +22,5 @@
     
 </div>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amb-costa&show_icons=true&locale=en&layout=compact" alt="amb-costa" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amb-costa&show_icons=true&locale=en&layout=compact" alt="amb-costa" />
 </p>
