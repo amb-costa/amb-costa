@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to my repository!</h1>
 <h2 align="center">I'm just starting on my Full Stack Developer career! I still got a lot of languages to learn and use, thus I have a lot of potential to explore. Looking forward to add more to the list! Stay tuned for updates ;)</h2>
 
-<h4 align="center">This is what I already know!</h4>
-<div>
+<h3 align="center">This is what I already know!</h3>
+<div style="margin: 20px">
     <p align="center"> 
         <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
         <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />        
@@ -20,7 +20,20 @@
         <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
     </p>
 </div>
-<p>
-    <h6 align="left">This is what i've coded so far</h6>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amb-costa&show_icons=true&locale=en&layout=compact" alt="amb-costa" />
+    
+<div align="center">
+    <h3 align="center" style="margin: 5px auto;">This is what i've coded so far</h3>
+    <a href="https://github.com/amb-costa/finalPedalPartner.com">Pedal Partner: Geolocalization for bicycle stores and reparation</a>
+    <br />
+    <a href="https://github.com/amb-costa/readingListSWAPI.js">Star Wars Reading List using the SWAPI</a>
+    <br />
+    <a href="https://github.com/amb-costa/spotifyTypePlayer.jsx">Spotify-like player with 8-bit game songs</a>
+    <br />
+    <a href="https://github.com/amb-costa/todoListFlask.py">Simple to-do list using Flask</a>
+</div>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amb-costa&show_icons=true&locale=en&layout=compact" alt="amb-costa" />
 </p>
+
+    
+
