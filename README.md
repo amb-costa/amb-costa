@@ -1,4 +1,4 @@
-<h3 align="center">Lover of all things music. I code too.</h3>
+<h2 align="center">Lover of all things music. I code too.</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
