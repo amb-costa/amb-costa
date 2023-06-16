@@ -20,7 +20,7 @@
         <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
     </p>
 </div>
-<p align="center">
-    <h6 align="center">This is what i've coded so far</h6>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amb-costa&show_icons=true&locale=en&layout=compact" alt="amb-costa" />
+<p>
+    <h6 align="left">This is what i've coded so far</h6>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amb-costa&show_icons=true&locale=en&layout=compact" alt="amb-costa" />
 </p>
