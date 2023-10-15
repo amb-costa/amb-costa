@@ -10,7 +10,6 @@
         <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
         <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
         <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />        
-        <img alt="ReactRouter" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
         <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
         <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
         <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -22,6 +21,10 @@
     
 <div align="center">
     <h3 align="center">This is what i've coded so far</h3>
+    <a href="https://github.com/amb-costa/boilerPage.JSX">Personal blog using React.js. Designed to replicate using Angular and Vue</a>
+    <br />
+    <a href="https://github.com/amb-costa/battleships.JSX">Battleships game using React.js</a>
+    <br />
     <a href="https://github.com/amb-costa/finalPedalPartner.com">Pedal Partner: Geolocalization for bicycle stores and reparation</a>
     <br />
     <a href="https://github.com/amb-costa/readingListSWAPI.js">Star Wars Reading List using the SWAPI</a>
