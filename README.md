@@ -1,5 +1,12 @@
-<h1 align="center">Welcome to my repository!</h1>
-<h2 align="center">I'm just starting on my Full Stack Developer career! I still got a lot of languages to learn and use, thus I have a lot of potential to explore. Looking forward to add more to the list! Stay tuned for updates ;)</h2>
+<h2 align="center">Welcome to my repository. Call me Amber, please :)</h2>
+<h4 align="center">Currently enrolled on a Data Analysis Certification. Fullstack Developer with a focus on frontend needs</h4>
+
+<h3 align="center">Currently learning...</h3>
+<div style="margin: 20px">
+    <p align="center">
+        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    </p>
+</div>
 
 <h3 align="center">Here is what I've used for work, design and communication</h3>
 <div style="margin: 20px">
@@ -33,12 +40,16 @@
         <img alt="Matlab" src="https://img.shields.io/badge/Matlab-FA7343?style=for-the-badge&logo=matrix&logoColor=white" />
     </p>
 </div>
-    
+
 <div align="center">
     <h3 align="center">This is what i've coded so far</h3>
-    <a href="https://github.com/amb-costa/boilerplate_flaskreact">Boilerplate for API using Flask + Frontend using React</a>
+    <a href="https://github.com/amb-costa/data_analysis">Data Analysis Repo, plus transcribed notes in LaTeX</a>
     <br />
-    <a href="https://github.com/amb-costa/boilerPage.JSX">Personal blog using React.js. Designed to replicate using Angular and Vue</a>
+    <a href="https://github.com/amb-costa/AOTY_API_REMIX">AOTY API fork, webscraping using Python</a>
+    <br />
+    <a href="https://github.com/amb-costa/Diplomado_ProgWeb">Proposed tasks for Web Programming + Design Course</a>
+    <br />
+    <a href="https://github.com/amb-costa/boilerplate_flaskreact">Boilerplate for API using Flask + Frontend using React</a>
     <br />
     <a href="https://github.com/amb-costa/battleships.JSX">Battleships game using React.js</a>
     <br />
@@ -47,8 +58,6 @@
     <a href="https://github.com/amb-costa/readingListSWAPI.js">Star Wars Reading List using the SWAPI</a>
     <br />
     <a href="https://github.com/amb-costa/spotifyTypePlayer.jsx">Spotify-like player with 8-bit game songs</a>
-    <br />
-    <a href="https://github.com/amb-costa/todoListFlask.py">Simple to-do list using Flask</a>
 </div>
 <br />
 <p align="center">
