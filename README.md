@@ -5,6 +5,7 @@
 <div style="margin: 20px">
     <p align="center">
         <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img alt="BigQuery" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
     </p>
 </div>
 
